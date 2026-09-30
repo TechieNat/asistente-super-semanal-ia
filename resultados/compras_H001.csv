@@ -1,0 +1,11 @@
+﻿ingrediente_id,producto_id,marca,paquetes,cantidad_paquete,precio_unitario_mxn,subtotal_mxn,sobrante_estimado
+I004,P007,Ahorro,1,500,39.9,39.9,180
+I006,P011,Casa Verde,2,500,31.0,62.0,339
+I007,P013,Ahorro,2,500,36.0,72.0,50
+I012,P023,Casa Verde,1,1000,29.5,29.5,0
+I015,P029,Casa Verde,1,1000,39.0,39.0,0
+I016,P031,Ahorro,1,1000,34.0,34.0,560
+I017,P033,Buen Día,1,1000,29.0,29.0,480
+I019,P037,Ahorro,2,300,35.0,70.0,150
+I022,P043,Ahorro,1,6,44.0,44.0,2
+I023,P045,Buen Día,1,900,49.0,49.0,790

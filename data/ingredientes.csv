@@ -1,0 +1,25 @@
+﻿ingrediente_id,nombre,categoria,unidad,vida_util_dias,alergeno_asociado,activo
+I001,Arroz,Cereal,g,365,Ninguno,1
+I002,Pasta,Cereal,g,365,Gluten,1
+I003,Tortilla de maíz,Cereal,pieza,14,Ninguno,1
+I004,Avena,Cereal,g,180,Gluten,1
+I005,Frijol negro,Leguminosa,g,365,Ninguno,1
+I006,Lenteja,Leguminosa,g,365,Ninguno,1
+I007,Garbanzo,Leguminosa,g,365,Ninguno,1
+I008,Pechuga de pollo,Proteína animal,g,3,Ninguno,1
+I009,Carne molida de res,Proteína animal,g,2,Ninguno,1
+I010,Atún en lata,Proteína animal,g,730,Pescado,1
+I011,Huevo,Proteína animal,pieza,21,Huevo,1
+I012,Leche,Lácteo,ml,7,Lácteos;Lactosa,1
+I013,Queso panela,Lácteo,g,10,Lácteos;Lactosa,1
+I014,Tofu,Proteína vegetal,g,7,Soya,1
+I015,Jitomate,Verdura,g,7,Ninguno,1
+I016,Cebolla,Verdura,g,21,Ninguno,1
+I017,Zanahoria,Verdura,g,21,Ninguno,1
+I018,Calabacita,Verdura,g,7,Ninguno,1
+I019,Espinaca,Verdura,g,5,Ninguno,1
+I020,Papa,Tubérculo,g,30,Ninguno,1
+I021,Aguacate,Fruta,g,5,Ninguno,1
+I022,Manzana,Fruta,pieza,21,Ninguno,1
+I023,Aceite vegetal,Grasa,ml,365,Ninguno,1
+I024,Cacahuate,Semilla,g,180,Cacahuate,1

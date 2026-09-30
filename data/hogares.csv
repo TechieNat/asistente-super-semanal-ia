@@ -1,0 +1,11 @@
+﻿hogar_id,numero_integrantes,adultos,ninos,presupuesto_semanal_mxn,preferencia_alimentaria,alergenos_excluidos,objetivo_principal,acepta_sugerencias
+H001,2,2,0,1250,Omnívora,Ninguna,Costo bajo,Sí
+H002,4,2,2,1850,Omnívora,Cacahuate,Variedad familiar,Sí
+H003,3,2,1,1600,Vegetariana,Ninguna,Más vegetales,No
+H004,1,1,0,750,Omnívora,Lactosa,Preparación rápida,Sí
+H005,5,3,2,2300,Omnívora,Mariscos,Porciones abundantes,Sí
+H006,2,2,0,1100,Vegana,Lácteos;Huevo,Bajo desperdicio,No
+H007,4,2,2,1450,Omnívora,Gluten,Menú sin gluten,Sí
+H008,3,3,0,1700,Pescetariana,Ninguna,Proteína alta,Sí
+H009,6,4,2,2550,Omnívora,Ninguna,Costo por porción,Sí
+H010,2,1,1,900,Vegetariana,Huevo,Ingredientes simples,No
